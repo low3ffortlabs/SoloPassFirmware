@@ -1,2 +1,2 @@
 # SoloPassFirmware
-Firmware Update Tool for SoloPass
+Firmware releases for SoloPass Update Tool
